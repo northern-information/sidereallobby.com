@@ -1,4 +1,9 @@
-nav.container-fluid {
-  margin-top: 10px; }
+body {
+  background: #000; }
+  body img {
+    min-width: 100%; }
+
+::selection {
+  background: red; }
 
 /*# sourceMappingURL=style.css.map */
