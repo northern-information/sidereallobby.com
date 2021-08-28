@@ -1,7 +1,19 @@
+$black: #000000
+$grey: #212529
+$red: #FF0000
+
+$display: 'Michroma', sans-serif
+$body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+
 body
-  background: #000
-  img
-    min-width: 100%
+  font-family: $body
+  background: $black
+  color: $grey
+
+h1
+  font-family: $display
+  padding-bottom: 5px
+  border-bottom: 1px solid $red
 
 ::selection
-  background: red
+  background: $red
