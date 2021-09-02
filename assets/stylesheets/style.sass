@@ -1,19 +1,35 @@
 $black: #000000
 $grey: #212529
 $red: #FF0000
+$gold: #f47300
 
 $display: 'Michroma', sans-serif
 $body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 
 body
-  font-family: $body
-  background: $black
-  color: $grey
+  background: url(/assets/images/mapcorps.jpg) no-repeat center center fixed
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
+  color: $gold
+  text-align: center
 
-h1
+h1, h2, h3
   font-family: $display
-  padding-bottom: 5px
-  border-bottom: 1px solid $red
+  padding-top: 64px
+  padding-bottom: 8px
+
+hr
+  border-bottom: 8px solid $gold
+
+a
+  color: $gold
+  text-decoration: underline
 
 ::selection
   background: $red
+
+.col-8
+  padding: 64px
+  background: $black
