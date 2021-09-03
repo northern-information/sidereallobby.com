@@ -45,7 +45,18 @@ This volley continued until the juxtapositions began to form a landscape with *f
 
 ## FCIV
 
-Check back later...
+> Dub is a refraction of alien consciousness
+
+[Flash Crash](https://flashcrash.net) was approaching. The folks running the event wanted dub in their interstitial program. I complied.
+
+It began with Mental Dub, constructed entirely in Ableton Live with stock samples and soft synths.
+The other human loaded its stems into his Octatrack for further mutation, which became Des Moines.
+The first human further mutated Des Moines within Ableton to create Null Lake.
+The humans had little hesitation about mix or levels.
+
+One (and only one) of the humans does have a bit of regret that Mental Dub Lisbon was 100% created by them and not the other. In other words, the other did not have any samples, or audio, or melody at all, but both humans concurred it was OK because it all took place in the Sidereal Lobby.
+
+Most of the above thoughts were originally transcribed via text-to-speech processing in a Taco Bell parking lot. The allure of Baja Blast is known to be irresistible to sidereal lobbyists.
 
 ---
 
