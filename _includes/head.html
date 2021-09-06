@@ -5,6 +5,13 @@
 {% if page.url == "/" %}<title>{{ site.title }}</title>{% elsif page.title %}<title>{{ page.title }} | {{ site.title }}</title>{% else %}<title>{{ site.title }}</title>{% endif %}
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏪</text></svg>">
 
+<meta property="og:title" content="{{ site.title }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ site.url }}/assets/images/silo.svg">
+
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Montserrat&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">

@@ -4,7 +4,9 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: #f47300;
+  color: #f47300; }
+
+h1 {
   text-align: center; }
 
 h1, h2, h3 {
