@@ -1,13 +1,9 @@
 body {
-  background: url(/assets/images/mapcorps.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: #000000;
   color: #f47300; }
 
-h1 {
-  text-align: center; }
+svg {
+  width: 200px; }
 
 h1, h2, h3 {
   font-family: "Michroma", sans-serif;
@@ -27,11 +23,6 @@ a:hover {
 
 ::selection {
   background: #FF0000; }
-
-.col-md-8 {
-  padding: 64px;
-  background: #000000;
-  border-radius: 8px; }
 
 .btn {
   font-family: "Michroma", sans-serif;
@@ -66,10 +57,5 @@ a:hover {
     background-position: 100% 29%; }
   100% {
     background-position: 0% 72%; } }
-@media (max-width: 576px) {
-  body {
-    background: #000000; }
-    body .col-md-8 {
-      padding: 8px; } }
 
 /*# sourceMappingURL=style.css.map */
